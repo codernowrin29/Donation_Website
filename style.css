@@ -257,6 +257,76 @@ hr {
     text-align: left;
 }
 
+/* Fifth Layout */
+.forth-section-flex {
+    text-align: center;
+    padding-top: 5%;
+}
+
+.forth-section-header {
+    font-family: 'Aboreto', cursive;
+    font-family: 'Bree Serif', serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 2.5rem;
+}
+
+.another-header-01 {
+    font-family: 'Aboreto', cursive;
+    font-family: 'Bree Serif', serif;
+    font-family: 'Lobster', cursive;
+    font-weight: 100;
+
+}
+
+.another-header-0 {
+    font-family: 'Aboreto', cursive;
+    font-family: 'Bree Serif', serif;
+    font-family: 'Lobster', cursive;
+    font-weight: 100;
+    font-size: 3rem;
+}
+
+#bank-draft {
+    font-family: 'Aboreto', cursive;
+    font-family: 'Bree Serif', serif;
+    font-family: 'Dancing Script', cursive;
+    font-size: 3rem;
+    color: crimson;
+}
+
+.flexible-item {
+    display: flex;
+}
+
+.flexible-item img {
+    margin-top: 25%;
+}
+
+.flexible {
+    width: 30%;
+    padding: 10%;
+    text-align: left;
+}
+
+.flexible img {
+    width: 50%;
+    margin-top: 20%;
+    margin-right: 10%;
+    border-radius: 20px;
+    opacity: 0.5;
+
+}
+
+.btn-001 {
+    text-decoration: none;
+    color: white;
+    background-color: purple;
+    padding: 20px 50px;
+    font-weight: 700;
+    border-radius: 10px;
+}
+
 /*Last Layout*/
 .last-part-email {
     text-align: center;
