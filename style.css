@@ -258,7 +258,7 @@ hr {
 }
 
 /* Fifth Layout */
-.forth-section-flex {
+/*.forth-section-flex {
     text-align: center;
     padding-top: 5%;
 }
@@ -326,6 +326,7 @@ hr {
     font-weight: 700;
     border-radius: 10px;
 }
+*/
 
 /*Last Layout*/
 .last-part-email {
